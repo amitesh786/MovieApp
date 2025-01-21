@@ -34,8 +34,8 @@ This is one way to run your app — you can also run it directly from within And
 ## Step 5: iOS and Android app screen recorded on screenshot folder which is present on the root
 
 Store the screen recordings in the designated screenshot folder located at the root directory. Use the following subdirectories for their respective platforms:
-- For iOS : './screenshots/iOS_16.mov'
-- For Android: './screenshots/Android_Pixel8.mov'
+- For iOS : [Watch iOS Recording](./screenshots/iOS_16.mov).
+- For Android: [Watch Android Recording](./screenshots/Android_Pixel8.mov).
 
 ## Step 6: Additional Commands
 

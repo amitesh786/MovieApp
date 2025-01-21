@@ -8,18 +8,18 @@ import { ThemeProvider } from "styled-components/native";
 
 const mockTheme = {
   margins: {
-    extraLarge: "20px",
+    extraLarge: "20",
   },
   spacing: {
-    medium: "10px",
-    small: "5px",
+    medium: "10",
+    small: "5",
   },
   colors: {
     gray: "#ccc",
   },
   fontSizes: {
-    large: "18px",
-    medium: "14px",
+    large: "18",
+    medium: "14",
   },
 };
 

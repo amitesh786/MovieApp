@@ -7,9 +7,9 @@ import Carousel from "../Carousel";
 import { ThemeProvider } from "styled-components/native";
 
 const mockTheme = {
-  margins: { small: "8px", medium: "16px", extraLarge: "24px" },
-  fontSizes: { medium: "14px" },
-  borderRadius: { large: "12px" },
+  margins: { small: "8", medium: "16", extraLarge: "24" },
+  fontSizes: { medium: "14" },
+  borderRadius: { large: "12" },
   fonts: { bold: "bold" },
   colors: { primary: "#FF6347" },
 };

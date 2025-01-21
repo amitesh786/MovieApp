@@ -21,7 +21,7 @@ const AdditionalInfo: React.FC<AdditionalInfoProps> = ({ releaseDate, rating, ge
 
 const InfoContainer = styled.View`
   margin-top: ${(props) => props.theme.margins.extraLarge || 20}px;
-  padding: ${(props) => props.theme.spacing.medium || 10}px;;
+  padding: ${(props) => props.theme.spacing.medium || 10}px;
   border-top-color: ${(props) => props.theme.colors.gray};
   border-top-width: 1px;
 `;

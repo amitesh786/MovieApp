@@ -9,10 +9,10 @@ import FilmDetails from "../FilmDetails";
 import { ThemeProvider } from "styled-components/native";
 
 const mockTheme = {
-  margins: { medium: "16px" },
-  fontSizes: { large: "20px", medium: "14px" },
+  margins: { medium: "16" },
+  fontSizes: { large: "20", medium: "14" },
   widths: { full: "100%" },
-  borderRadius: { large: "12px" },
+  borderRadius: { large: "12" },
   fonts: { bold: "bold" },
   colors: { primary: "#FF6347", secondary: "#333" },
 };

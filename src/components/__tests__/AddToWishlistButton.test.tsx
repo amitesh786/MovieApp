@@ -11,8 +11,8 @@ import { ThemeProvider } from "styled-components/native";
 const mockTheme = {
   margins: { none: "0" },
   colors: { blue: "#0000FF", white: "#FFFFFF" },
-  borderRadius: { medium: "8px" },
-  fontSizes: { medium: "14px" },
+  borderRadius: { medium: "8" },
+  fontSizes: { medium: "14" },
   fonts: { bold: "bold" },
 };
 

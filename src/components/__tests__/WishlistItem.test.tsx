@@ -15,10 +15,10 @@ jest.mock("../../context/WishlistContext", () => ({
 }));
 
 const mockTheme = {
-  margins: { large: "16px", medium: "8px" },
-  paddings: { medium: "16px", small: "8px" },
-  fontSizes: { large: "20px", medium: "14px" },
-  borderRadius: { medium: "10px" },
+  margins: { large: "16", medium: "8" },
+  paddings: { medium: "16", small: "8" },
+  fontSizes: { large: "20", medium: "14" },
+  borderRadius: { medium: "10" },
   colors: { primary: "#FF6347", gray: "#ccc", red: "#FF0000", white: "#FFF" },
   fonts: { bold: "bold" },
 };
