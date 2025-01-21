@@ -1,0 +1,56 @@
+export const theme = {
+  colors: {
+    primary: "#333",
+    secondary: "#777",
+    highlight: "#ff5722",
+    error: "#e74c3c",
+    gray: "#ddd",
+    background: "#f5f5f5",
+    text: "#333",
+    blue: "#007BFF",
+    red: "#FF0000",
+    white: "#FFFFFF",
+    whiteSomke: "#f8f8f8",
+    silver: "#ccc",
+  },
+  spacing: {
+    small: "5",
+    medium: "10",
+    large: "15",
+  },
+  fonts: {
+    regular: "Roboto-Regular",
+    bold: "Roboto-Bold",
+    italic: "Roboto-Italic",
+  },
+  fontSizes: {
+    small: "12",
+    medium: "16",
+    large: "20",
+  },
+  borderRadius: {
+    small: "4",
+    medium: "8",
+    large: "12",
+  },
+  margins: {
+    none: "0",
+    small: "5",
+    medium: "10",
+    large: "15",
+    extraLarge: "20",
+  },
+  paddings: {
+    none: "0",
+    small: "5",
+    medium: "10",
+    large: "15",
+    extraLarge: "20",
+  },
+  widths: {
+    full: "100%",
+    half: "50%",
+    quarter: "25%",
+    auto: "auto",
+  },
+};
