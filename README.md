@@ -1,5 +1,5 @@
 # MovieApp
-MovieApp app using React Native with TypeScript - Developed by Amitesh Singh
+MovieApp – A React Native application built with TypeScript, developed by Amitesh Singh. 🎬
 
 ## Requirements:
 Node and npm installed globally on your machine `https://nodejs.org`.
